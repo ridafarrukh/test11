@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class lek {
+public class lek {
+    public static void main(String[] args) {
+        System.out.println("hej");
+        System.out.println("rida warsi");
+    }
 }
